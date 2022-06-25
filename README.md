@@ -1,7 +1,13 @@
 # springbootcampilkodev
 
 
-![Github](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+![Github](https://github.com/Patika-Todeb-Java-Spring-Bootcamp/week1-ibrahimkapici/blob/main/figures/1.png?raw=true)
+![Github](https://github.com/Patika-Todeb-Java-Spring-Bootcamp/week1-ibrahimkapici/blob/main/figures/2.png?raw=true)
+![Github](https://github.com/Patika-Todeb-Java-Spring-Bootcamp/week1-ibrahimkapici/blob/main/figures/3.png?raw=true)
+![Github](https://github.com/Patika-Todeb-Java-Spring-Bootcamp/week1-ibrahimkapici/blob/main/figures/4.png?raw=true)
+![Github](https://raw.githubusercontent.com/Patika-Todeb-Java-Spring-Bootcamp/week1-ibrahimkapici/main/figures/5.png?token=GHSAT0AAAAAABUOKO4TROQRUCODGHWE53GAYVWMSCA)
+
+
 
 ## Installation 
 
